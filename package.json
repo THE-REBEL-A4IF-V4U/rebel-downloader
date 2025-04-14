@@ -1,5 +1,5 @@
 {
-  "name": "imran-alldl",
+  "name": "rebel-downloader",
   "version": "0.0.6",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
@@ -9,7 +9,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MR-IMRAN-60/imran-downloadmedia"
+    "url": "git+https://github.com/https://github.com/THE-REBEL-A4IF-V4U/rebel-downloader"
   },
   "keywords": [
     "instagram",
@@ -37,14 +37,14 @@
     "capcut",
     "likee",
     "threads",
-    "imran"
+    "rebel"
   ],
-  "author": "Imran",
+  "author": "rebel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MR-IMRAN-60/imran-downloadmedia/issues"
+    "url": "https://github.com/THE-REBEL-A4IF-V4U/rebel-downloader/issues"
   },
-  "homepage": "https://github.com/MR-IMRAN-60/imran-downloadmedia#readme",
+  "homepage": "https://github.com/THE-REBEL-A4IF-V4U/rebel-downloader#readme",
 
   "dependencies": {
     "axios": "^1.4.0"
