@@ -1,0 +1,52 @@
+{
+  "name": "imran-alldl",
+  "version": "0.0.6",
+  "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-IMRAN-60/imran-downloadmedia"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "tikvm",
+    "video",
+    "fbdownload",
+    "twdown.net",
+    "fbdownload",
+    "download",
+    "facebook",
+    "fbdown",
+    "youtube",
+    "yt download",
+    "Twitter",
+    "gdrive",
+    "drive link",
+    "google drive",
+    "pintarest",
+    "all media download",
+    "media download",
+    "capcut",
+    "likee",
+    "threads",
+    "imran"
+  ],
+  "author": "Imran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MR-IMRAN-60/imran-downloadmedia/issues"
+  },
+  "homepage": "https://github.com/MR-IMRAN-60/imran-downloadmedia#readme",
+
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
